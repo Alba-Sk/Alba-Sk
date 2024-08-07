@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Albana Skeja
+- 👀 I’m interested in integrating Data Science into accounting field.
+- 🌱 I’m currently learning Data science 
+- 💞️ I'm looking for development opportunities.
+- 📫 You can reach me: dejsi2003@hotmail.com
+- 😄 Pronouns: A-l-ba
+--->
