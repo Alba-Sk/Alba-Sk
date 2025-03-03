@@ -2,6 +2,7 @@
 - 👀 I’m interested in integrating Data Science into accounting field.
 - 🌱 I’m currently learning Data science 
 - 💞️ I'm looking for development opportunities.
+- Data Science | Python | Machine Learning | Financial Data Analytics | Business Intelligence | Feature Engineering | Statistical Modeling |Accounting & Financial Systems | Account AR/AP | Key Performance Indicator |
 - 📫 You can reach me: dejsi2003@hotmail.com
 - 😄 Pronouns: A-l-ba
 --->
